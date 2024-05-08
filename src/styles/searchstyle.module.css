@@ -1,0 +1,37 @@
+.layout1 {
+    height: 80vh;
+}
+
+.layout2 {
+    background-color: white;
+}
+
+.ratio {
+    color:white;
+}
+
+.searchBar {
+    margin-top: 16px;
+    width: 90%;
+    padding-left: 10%;
+}
+
+.filterTitle {
+    text-align: center;
+    font-size: 20px;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.filterItem {
+    font-size: 15px;
+    color: white;
+    padding-left: 40px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.booklist {
+    padding: 30px;
+}

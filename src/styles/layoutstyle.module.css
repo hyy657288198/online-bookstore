@@ -1,0 +1,63 @@
+.header {
+    position: relative;
+    justify-content: center;
+    background-color: midnightblue;
+}
+
+.demoLogo {
+    font-size: 25px;
+    font-weight: bold;
+    color: white;
+    float: left;
+}
+
+.shoppingCartBtn {
+    color: white;
+}
+
+.userBar {
+    float: right;
+}
+
+.pageTitle {
+    padding-right: 20px;
+    float:right;
+    font-size: 20px;
+    font-weight: bold;
+    padding-top: 8px;
+    text-transform: uppercase;
+}
+
+.searchButton {
+    padding: 5px 50px;
+}
+
+.siderTitle {
+    height: 6%;
+    background-color: white;
+    font-size: 20px;
+    font-weight: bold;
+    padding-top: 20px;
+    padding-left: 34%;
+}
+
+.siderBar {
+    background-color: white;
+    width: 200px;
+}
+
+.menu {
+    height: 94%;
+}
+
+.antd_layout {
+    padding: 0;
+}
+
+.content {
+    margin: 0;
+    min-height: 280px;
+    background-color: white;
+}
+
+

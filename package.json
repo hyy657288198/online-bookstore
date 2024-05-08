@@ -1,0 +1,41 @@
+{
+  "name": "bookstore-website",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@react-oauth/google": "^0.12.1",
+    "@react-spring/web": "^9.7.3",
+    "@types/node": "20.9.1",
+    "@types/react": "18.2.37",
+    "@types/react-dom": "18.2.15",
+    "antd": "^5.3.2",
+    "axios": "^1.6.2",
+    "bootstrap": "^5.3.2",
+    "eslint": "8.53.0",
+    "eslint-config-next": "14.0.3",
+    "iconv-lite": "^0.6.3",
+    "js-cookie": "^3.0.5",
+    "next": "13.2.3",
+    "parse": "^4.3.1",
+    "particles-bg": "^2.5.5",
+    "react": "18.2.0",
+    "react-background-video-player": "^1.1.8",
+    "react-bootstrap": "^2.9.1",
+    "react-canvas-nest": "^1.1.1",
+    "react-dom": "18.2.0",
+    "react-particle-line": "^0.1.9",
+    "react-router-dom": "^5.3.4",
+    "react-tsparticles": "^2.12.2",
+    "tsparticles": "^2.12.0",
+    "typescript": "5.2.2"
+  },
+  "devDependencies": {
+    "file-loader": "^6.2.0"
+  }
+}

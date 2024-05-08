@@ -1,0 +1,10 @@
+.choose{
+    float: right;
+}
+
+.or{
+    float: right;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-weight: normal;
+}

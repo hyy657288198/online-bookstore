@@ -1,0 +1,32 @@
+.userDiv {
+    display: flex;
+}
+
+.userInfo{
+    position: relative;
+    width: 30%;
+    height: 100%;
+    padding-top: 5%;
+    padding-left: 5%;
+}
+
+.userBooklist {
+    height: 100%;
+    padding: 5%;
+}
+
+.myBooklist {
+    padding-left: 10px;
+    padding-bottom: 20px;
+    width: 78%;
+    position: relative;
+}
+
+.addButton {
+    float: right;
+    margin-bottom: 15px;
+}
+
+.title {
+    display: flex;
+}

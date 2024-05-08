@@ -1,0 +1,44 @@
+.logincard {
+    width: 70%;
+    background-color: transparent;
+    box-shadow:
+            5px 5px 5px gainsboro,
+            5px -5px 5px gainsboro,
+            -5px 5px 5px gainsboro,
+            -5px -5px 5px gainsboro;
+}
+
+.title {
+    text-align: center;
+}
+
+.divider {
+    margin-top: 10px;
+    background-color: black;
+}
+
+.password {
+    margin: 0;
+}
+
+.form_forgot{
+    margin: 0;
+}
+
+.forgot {
+    float: right;
+}
+
+.loginformbutton {
+    width: 100%;
+}
+
+.googledivider{
+    color: black;
+    margin-top: 0;
+}
+
+.google{
+    margin: auto;
+    width: 200px;
+}

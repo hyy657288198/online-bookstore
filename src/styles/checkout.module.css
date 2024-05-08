@@ -1,0 +1,87 @@
+.checkout {
+    color: white;
+    padding-top: 10%;
+}
+
+.checkoutContainer {
+    padding: 20px 20px;
+}
+
+.title {
+    text-transform: uppercase;
+    font-size: 20px;
+    font-weight: 700;
+    padding-bottom: 30px;
+}
+
+.checkoutBtn {
+    background: linear-gradient(0deg, #019875, #029875);
+    box-shadow: 0 1px 10px rgba(0, 0, 0, 0.2);
+    border: 0;
+    border-radius: 5px;
+    width: 100%;
+    height: 40px;
+    margin-top: 80px;
+    color: white;
+    font-size: 10px;
+    font-weight: 700;
+    text-transform: uppercase;
+    text-shadow: 0 2px rgba(0, 0, 0, 0.2);
+    letter-spacing: 2px;
+    cursor: pointer;
+}
+
+.input {
+    padding: 7px 0;
+}
+
+.input label{
+    font-size: 10px;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #78757c;
+}
+
+.input input {
+    width: 100%;
+    padding: 5px 10px;
+    color: white;
+    letter-spacing: 0;
+    font-size: 14px;
+    background: 0;
+    border: 0;
+}
+
+.input input:focus {
+    outline: 0;
+}
+
+.inputField {
+    border: 1px solid #78757c;
+    border-radius: 5px;
+    position: relative;
+}
+
+.inputField img {
+    width: 25px;
+    height: auto;
+    position: absolute;
+    right: 0;
+    top: 5px;
+    margin-right: 5px;
+}
+
+.inputNoArrow[type=number]::-webkit-inner-spin-button,
+.inputNoArrow[type=number]::-webkit-outer-spin-button{
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    margin: 0;
+}
+
+.checkoutSider {
+    width: 250px;
+    flex: 0 0 250px;
+    min-width: 250px;
+    max-width: 250px;
+}
